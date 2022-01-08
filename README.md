@@ -1,7 +1,6 @@
 este es el nuevo readme
 esta es una actualizacion
-solo son unas modificacicones, con brach
-
+this is bound to couse 
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
